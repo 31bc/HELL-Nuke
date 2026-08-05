@@ -1,5 +1,5 @@
 # ⚡ HELL Nuke
-![Discord Nuke]()
+![Discord Nuke](https://github.com/31bc/HELL-Nuke/blob/main/ssfa.png)
 
 ### Advanced Discord Server Automation & Administration Toolkit
 
