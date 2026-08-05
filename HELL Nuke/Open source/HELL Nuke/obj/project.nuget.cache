@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Nffh0Sr9h0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\HELL Nuke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net\\3.19.1\\discord.net.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.commands\\3.19.1\\discord.net.commands.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.core\\3.19.1\\discord.net.core.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.dave\\3.19.1\\discord.net.dave.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.interactions\\3.19.1\\discord.net.interactions.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.rest\\3.19.1\\discord.net.rest.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.webhook\\3.19.1\\discord.net.webhook.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\discord.net.websocket\\3.19.1\\discord.net.websocket.3.19.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|c:\\users\\administrator\\desktop\\hell nuke\\hell nuke\\nukerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|solutionrelative:hell nuke\\nukerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|c:\\users\\administrator\\desktop\\hell nuke\\hell nuke\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|solutionrelative:hell nuke\\loginexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|c:\\users\\administrator\\desktop\\hell nuke\\hell nuke\\hell nuke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|solutionrelative:hell nuke\\hell nuke.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|c:\\users\\administrator\\desktop\\hell nuke\\hell nuke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|solutionrelative:hell nuke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|c:\\users\\administrator\\desktop\\hell nuke\\hell nuke\\hell nuke.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{552D21B9-8B14-FC62-AAF6-3897143F4DE8}|HELL Nuke\\HELL Nuke.csproj|solutionrelative:hell nuke\\hell nuke.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HELL Nuke.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\HELL Nuke.csproj",
+              "RelativeDocumentMoniker": "HELL Nuke\\HELL Nuke.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\HELL Nuke.csproj",
+              "RelativeToolTip": "HELL Nuke\\HELL Nuke.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-05T17:21:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginException.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\LoginException.cs",
+              "RelativeDocumentMoniker": "HELL Nuke\\LoginException.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\LoginException.cs",
+              "RelativeToolTip": "HELL Nuke\\LoginException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:20:32.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HELL Nuke",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\HELL Nuke.csproj",
+              "RelativeDocumentMoniker": "HELL Nuke\\HELL Nuke.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\HELL Nuke.csproj",
+              "RelativeToolTip": "HELL Nuke\\HELL Nuke.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T15:44:38.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\Program.cs",
+              "RelativeDocumentMoniker": "HELL Nuke\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\Program.cs",
+              "RelativeToolTip": "HELL Nuke\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:25:19.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NukerService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\NukerService.cs",
+              "RelativeDocumentMoniker": "HELL Nuke\\NukerService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\HELL Nuke\\HELL Nuke\\NukerService.cs",
+              "RelativeToolTip": "HELL Nuke\\NukerService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAxwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T11:24:20.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

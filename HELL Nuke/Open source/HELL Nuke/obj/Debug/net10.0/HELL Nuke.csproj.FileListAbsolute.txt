@@ -1,0 +1,78 @@
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.exe
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.deps.json
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.runtimeconfig.json
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.pdb
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Commands.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Core.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Dave.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Interactions.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Rest.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Webhook.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.WebSocket.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.AssemblyReference.cache
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.GeneratedMSBuildEditorConfig.editorconfig
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfoInputs.cache
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfo.cs
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.CoreCompileInputs.cache
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.Up2Date
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\refint\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.pdb
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.genruntimeconfig.cache
+D:\HELL Nuke\HELL Nuke\obj\Debug\net10.0\ref\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.exe
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.deps.json
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.runtimeconfig.json
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.pdb
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Commands.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Core.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Dave.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Interactions.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Rest.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Webhook.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.WebSocket.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.AssemblyReference.cache
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.GeneratedMSBuildEditorConfig.editorconfig
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfoInputs.cache
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfo.cs
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.CoreCompileInputs.cache
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.Up2Date
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\refint\HELL Nuke.dll
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.pdb
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.genruntimeconfig.cache
+D:\HELL Nuke\HELL Nuke\HELL Nuke\obj\Debug\net10.0\ref\HELL Nuke.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.exe
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.deps.json
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.runtimeconfig.json
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\HELL Nuke.pdb
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Commands.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Core.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Dave.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Interactions.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Rest.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.Webhook.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Discord.Net.WebSocket.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.csproj.Up2Date
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\refint\HELL Nuke.dll
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.pdb
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\HELL Nuke.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\HELL Nuke\HELL Nuke\obj\Debug\net10.0\ref\HELL Nuke.dll
