@@ -1,4 +1,5 @@
 # ⚡ HELL Nuke
+![Discord Nuke](https://i.imgur.com/MLrEc5l.png)
 
 ### Advanced Discord Server Automation & Administration Toolkit
 
