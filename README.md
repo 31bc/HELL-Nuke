@@ -379,4 +379,4 @@ You are responsible for ensuring that your use of the software complies with Dis
 
 ### C# • .NET • Discord.NET • Discord API • Automation
 
-**Built for developers who want to explore Discord automation through modern C#.**
+**Built for developers who want to explore Discord automation through modern C#.**.
